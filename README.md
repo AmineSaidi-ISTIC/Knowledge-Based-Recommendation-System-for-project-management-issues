@@ -13,6 +13,5 @@ During this project i have worked on the following : <br>
   * ✅Deployment of the app on multiple platforms ( Web / desktop / mobile)
 
 ### ⚙️technologies used:
-NLP - Python - Rasa - Docker- Keras - NLTK - Spacy - OpenCV
-Sklearn - Heroku - Plotly
-
+NLP - Python - Keras - NLTK - Spacy - OpenCV - Ontology - Yolo v5 - BERT Roberta - LSA - LDA - Clustering - Sklearn - Heroku - Plotly - Transformers - knowledge graph - KeyBERT - Yake - Rake - Cosine Similarity - Regex 
+Vuejs - Fast API 
